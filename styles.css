@@ -1,0 +1,98 @@
+body {
+  background-color: #F7FBFC;
+  font-family:'Raleway', serif;
+  text-align:center;
+
+}
+
+h1 {
+  margin:50 auto 0 auto;
+  font-family:'Sacramento', cursive;
+  font-size: 560%;
+  color:#3F72AF;
+  /* line-height: 2; */
+
+}
+
+h2 {
+  margin-top:0;
+  font-family:'Montserrat', sans-serif;
+  font-size: 2.5rem; /*1 rem=16 px */
+  color: grey;
+  font-weight: normal;
+
+}
+
+h3{
+  margin-top:20px;
+  font-family:'Montserrat', sans-serif;
+  font-size: 1.5rem; /*1 rem=16 px */
+  color: #11999E;
+
+
+}
+
+
+
+.top {
+  background-color: #112D4E;
+  position:relative;
+  padding-top:100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+
+.top-cloud{
+  position: absolute;
+right:300px;
+top:50px;
+}
+
+div{
+  margin-top : 20px;
+  margin-left : 20px;
+  margin-right: 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.skills{
+height: 1050px;
+}
+
+.ss{
+width:15%;
+float:left;
+margin-right: 50px;
+
+
+}
+
+.sss{
+  width:15%;
+  float:left;
+  margin-right: 50px;
+
+
+}
+
+.ssss{
+  width:15%;
+  float:left;
+  margin-right: 50px;
+
+}
+
+/* .contact-me{
+  margin-top: 100%;
+} */
